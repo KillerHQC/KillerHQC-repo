@@ -1,28 +1,11 @@
 {
-  "name": "Full Movie Repo - Vietsub & Thuyết Minh",
-  "description": "Phim Việt, Hàn, Trung, Âu Mỹ, Hoạt hình 3D Trung Quốc, Anime... Vietsub - Thuyết minh - Lồng tiếng cho CloudStream",
+  "name": "KillerHQC Repository",
+  "description": "Kho tiện ích mở rộng dành cho CloudStream 4.6.0 (Phim, Anime, TV Show, Lồng tiếng, Vietsub)",
   "manifestVersion": 1,
-  "version": 1,
   "pluginLists": [
     {
-      "name": "Tổng hợp Vietsub",
-      "url": "https://raw.githubusercontent.com/recloudstream/extensions/main/repo.json"
-    },
-    {
-      "name": "Hàn - Trung - Âu Mỹ",
-      "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions/main/repo.json"
-    },
-    {
-      "name": "Anime & Hoạt hình",
-      "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions/main/repo.json"
-    },
-    {
-      "name": "Phim Việt - Lồng tiếng",
-      "url": "https://raw.githubusercontent.com/doob131/cloudstream-extensions/main/repo.json"
-    },
-    {
-      "name": "Nguồn dự phòng",
-      "url": "https://raw.githubusercontent.com/LagradOst/CloudStream-Extensions/main/repo.json"
+      "name": "KillerHQC Plugins",
+      "url": "https://raw.githubusercontent.com/KillerHQC/KillerHQC-repo/main/plugins.json"
     }
   ]
 }
