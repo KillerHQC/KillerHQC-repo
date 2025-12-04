@@ -1,0 +1,23 @@
+{
+  "name": "Anime Vietsub",
+  "description": "Anime Vietsub + Hoạt Hình Trung Quốc + Anime Movie",
+  "apiVersion": 1,
+  "language": "vi",
+  "providers": [
+    {
+      "name": "AnimeHay",
+      "baseUrl": "https://animehay.sbs",
+      "searchUrl": "/search?q={query}"
+    },
+    {
+      "name": "AniVN",
+      "baseUrl": "https://anivn.net",
+      "searchUrl": "/tim-kiem?q={query}"
+    },
+    {
+      "name": "HoatHinh3D",
+      "baseUrl": "https://hoathinh3d.pro",
+      "searchUrl": "/?s={query}"
+    }
+  ]
+}
