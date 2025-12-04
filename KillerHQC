@@ -1,0 +1,23 @@
+{
+  "name": "KillerHQC - CloudStream Repo",
+  "description": "Phim bộ, phim lẻ, hoạt hình Trung Quốc, anime, phim Việt, Châu Âu, Hàn Quốc - Vietsub | Lồng tiếng | Thuyết minh",
+  "manifestVersion": 2,
+  "repositories": [
+    {
+      "name": "Official CloudStream",
+      "url": "https://raw.githubusercontent.com/recloudstream/repo/master/repo.json"
+    },
+    {
+      "name": "Hexated Movies & TV",
+      "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/repo.json"
+    },
+    {
+      "name": "Anime & Donghua",
+      "url": "https://raw.githubusercontent.com/cloudstream/extensions/builds/repo.json"
+    },
+    {
+      "name": "Korean & Asian Drama",
+      "url": "https://raw.githubusercontent.com/titi20/cloudstream-extensions/builds/repo.json"
+    }
+  ]
+}
