@@ -1,0 +1,12 @@
+repo
+{
+  "name": "Repo riêng của tôi",
+  "description": "Kho extension cá nhân cho CloudStream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    {
+      "name": "Repo chính",
+      "url": "https://raw.githubusercontent.com/recloudstream/repo/master/repo.json"
+    }
+  ]
+}
