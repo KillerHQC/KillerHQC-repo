@@ -1,11 +1,5 @@
 {
-  "name": "KillerHQC Repository",
-  "description": "Kho tiện ích mở rộng dành cho CloudStream 4.6.0 (Phim, Anime, TV Show, Lồng tiếng, Vietsub)",
-  "manifestVersion": 1,
-  "pluginLists": [
-    {
-      "name": "KillerHQC Plugins",
-      "url": "https://raw.githubusercontent.com/KillerHQC/KillerHQC-repo/main/plugins.json"
-    }
-  ]
+  "name": "KillerHQC Repo",
+  "url": "https://raw.githubusercontent.com/KillerHQC/KillerHQC-repo/main/repo.json",
+  "description": "Kho tiện ích mở rộng dành cho CloudStream 4.6.0"
 }
