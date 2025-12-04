@@ -1,0 +1,16 @@
+[
+  {
+    "name": "AnimeVietsub",
+    "description": "Xem Anime Vietsub",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/KillerHQC/KillerHQC-repo/main/plugins/AnimeVietsub.cs3",
+    "language": "vi"
+  },
+  {
+    "name": "PhimHD",
+    "description": "Phim bộ - phim lẻ - thuyết minh",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/KillerHQC/KillerHQC-repo/main/plugins/PhimHD.cs3",
+    "language": "vi"
+  }
+]
